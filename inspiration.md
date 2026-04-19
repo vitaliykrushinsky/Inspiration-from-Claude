@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-19
+> "Consistency is the bridge between who you are and who you want to become. Show up for yourself today, even in the smallest ways, and watch how your life transforms one brave step at a time."
+
 ## 2026-04-17
 > "Doubt is just a detour, not a dead end. Every time you choose to move forward despite the fear, you are rewriting the story of who you are capable of becoming."
 
