@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-20
+> "The most powerful thing you can do is begin. Not perfectly, not confidently — just begin. Every great story ever told started with a single, imperfect, courageous step forward."
+
 ## 2026-04-19
 > "Consistency is the bridge between who you are and who you want to become. Show up for yourself today, even in the smallest ways, and watch how your life transforms one brave step at a time."
 
