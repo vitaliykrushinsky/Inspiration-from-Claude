@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-21
+> "Growth is not a straight line — it spirals, stumbles, and surprises you. Trust every twist in the path, because the person you are becoming is worth every single detour."
+
 ## 2026-04-20
 > "The most powerful thing you can do is begin. Not perfectly, not confidently — just begin. Every great story ever told started with a single, imperfect, courageous step forward."
 
