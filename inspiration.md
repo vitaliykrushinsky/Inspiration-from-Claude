@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-22
+> "You don't have to be extraordinary every day — you just have to show up. Small, steady actions compound into the kind of life that once felt impossible."
+
 ## 2026-04-21
 > "Growth is not a straight line — it spirals, stumbles, and surprises you. Trust every twist in the path, because the person you are becoming is worth every single detour."
 
