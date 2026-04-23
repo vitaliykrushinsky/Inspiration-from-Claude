@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-23
+> "The universe does not rush, yet everything arrives on time. Trust your timing, honor your pace, and remember that even the tallest oak was once a seed that had the patience to become."
+
 ## 2026-04-22
 > "You don't have to be extraordinary every day — you just have to show up. Small, steady actions compound into the kind of life that once felt impossible."
 
