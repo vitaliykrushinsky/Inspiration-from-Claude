@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-24
+> "Courage is not the absence of fear — it is the decision that something else matters more. Step into the unknown, for it is there that you will discover the fullest version of yourself."
+
 ## 2026-04-23
 > "The universe does not rush, yet everything arrives on time. Trust your timing, honor your pace, and remember that even the tallest oak was once a seed that had the patience to become."
 
