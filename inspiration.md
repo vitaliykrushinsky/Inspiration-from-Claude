@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-27
+> "Every moment you invest in yourself is a gift that compounds — not just for you, but for everyone whose life you will one day touch. You are worth that investment."
+
 ## 2026-04-24
 > "Courage is not the absence of fear — it is the decision that something else matters more. Step into the unknown, for it is there that you will discover the fullest version of yourself."
 
