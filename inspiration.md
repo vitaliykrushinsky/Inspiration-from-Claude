@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-28
+> "The greatest chapters of your life have not been written yet. Every day you choose to rise, learn, and keep going, you are authoring a story more powerful than you can imagine."
+
 ## 2026-04-27
 > "Every moment you invest in yourself is a gift that compounds — not just for you, but for everyone whose life you will one day touch. You are worth that investment."
 
