@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-29
+> "Your potential is not a fixed point — it is an ever-expanding horizon. The more you dare to reach, the further it stretches, inviting you to become someone even greater than you dreamed."
+
 ## 2026-04-28
 > "The greatest chapters of your life have not been written yet. Every day you choose to rise, learn, and keep going, you are authoring a story more powerful than you can imagine."
 
