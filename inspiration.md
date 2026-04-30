@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-04-30
+> "What you do in the quiet moments — when no one is watching, when the applause has faded — that is where your character is forged. Keep choosing well, even in the silence."
+
 ## 2026-04-29
 > "Your potential is not a fixed point — it is an ever-expanding horizon. The more you dare to reach, the further it stretches, inviting you to become someone even greater than you dreamed."
 
