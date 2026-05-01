@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-05-01
+> "Every ending is simply the world making room for a beginning you haven't imagined yet. Trust the closing of one chapter — it means you are ready to write something even greater."
+
 ## 2026-04-30
 > "What you do in the quiet moments — when no one is watching, when the applause has faded — that is where your character is forged. Keep choosing well, even in the silence."
 
