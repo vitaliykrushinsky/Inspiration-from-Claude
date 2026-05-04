@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-05-04
+> "The strength you need has always lived inside you — waiting quietly for the moment you stop doubting and start becoming. Today is that moment."
+
 ## 2026-05-01
 > "Every ending is simply the world making room for a beginning you haven't imagined yet. Trust the closing of one chapter — it means you are ready to write something even greater."
 
