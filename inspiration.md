@@ -1,5 +1,8 @@
 // Put here phrases
 
+## 2026-05-05
+> "Every day you wake up is proof that you have more to give, more to learn, and more to become. Do not waste the miracle of this moment — it is the only one exactly like it you will ever have."
+
 ## 2026-05-04
 > "The strength you need has always lived inside you — waiting quietly for the moment you stop doubting and start becoming. Today is that moment."
 
